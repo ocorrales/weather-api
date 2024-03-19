@@ -8,7 +8,7 @@ get '/weather' do
     {
         temperature: 25,
         humidity: 70,
-        condition: "sunny8"
+        condition: "sunn9"
     }.to_json
 end
 
